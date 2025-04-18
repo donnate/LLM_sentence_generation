@@ -1,0 +1,10 @@
+data/*
+notebooks/*
+generation/*
+__pycache__/*
+# --- secrets you never commit ---
+.env
+.DS_Store*
+.DS_Store.*
+.env.*
+
